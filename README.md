@@ -1,6 +1,6 @@
 # crustal-radial-aisotropy-CNCC
-radial_anisotropy_CNCC.tgz:
-Crustal radial anisotropy of the central North China Craton
+Vsv_Vsh_uncertainty.tgz:
+Three dimensionally shear wave velocity structures (including Vsv and Vsh) and associated uncertainties of the central North China Craton
 
 Dispersion:
 Rayleigh and Love wave dispersion and associated resolution maps
